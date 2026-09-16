@@ -1,6 +1,6 @@
 # Guía del proyecto Git y GitHub
 
-Esta guía explica el trabajo realizado en el Laboratorio 03 utilizando Git y GitHub para controlar y publicar los cambios de un proyecto.
+Esta guía explica el trabajo realizado en el Laboratorio 03 y muestra cómo utilizar Git y GitHub para controlar y publicar los cambios de un proyecto.
 
 ## Requisitos
 
